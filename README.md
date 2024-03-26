@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst @ COPAG</h3>
 
 <br>
-<img align="right" width=400px height=400px src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" />
+<img align="right" width=300px height=300px src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" />
 
 - 🔭 I’m currently working at [COPAG](https://www.linkedin.com/company/copag/)
 - 🌱 Passionate about Business Intelligence
