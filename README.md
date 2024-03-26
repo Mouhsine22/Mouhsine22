@@ -8,7 +8,7 @@
 - 🌱 Passionate about Business Intelligence
 - 📫 How to reach me **mouhsine.bella@gmail.com**
 - :thinking: I’m currently open for a new `job opportunity`,
-  this is [MY RESUME]().
+  this is [MY RESUME](https://github.com/Mouhsine22/Mouhsine22/files/14764840/CV_MOUHSINE_AITBELLA.pdf).
 - :nerd_face: Always `learning new things`
 
 <br>
